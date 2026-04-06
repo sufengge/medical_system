@@ -181,8 +181,10 @@ class MainWindow:
         ).pack(side=tk.RIGHT, padx=40, pady=15)
 
     def logout(self):
-        self.root.destroy()
-        self.back_login()
+        try:
+            self.back_login()
+        except:
+            pass
 
 
 # --------------------- 主程序（核心修复：列表页数据加载） ---------------------
@@ -282,8 +284,12 @@ class MedicalApp:
         QueryWindow(self.root, self.show_main)
 
     def clear_all(self):
-        for w in self.root.winfo_children():
-            w.destroy()
+        try:
+            if self.root and self.root.winfo_exists():
+                for w in self.root.winfo_children():
+                    w.destroy()
+        except:
+            pass
 
     def run(self):
         self.root.mainloop()

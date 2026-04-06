@@ -11,7 +11,7 @@ PyInstaller.__main__.run([
     "--onefile",          # 打包成单个exe
     "--windowed",         # 不显示黑色控制台
     "--noconsole",
-    "--name=医疗病历管理系统",  # exe文件名
+    "--name=医疗病历管理系统_兼容win7",  # exe文件名
     "--icon=icon.ico",        # 无图标（你有图标可以替换）
     "--clean",
     "--noconfirm",
