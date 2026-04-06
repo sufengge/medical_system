@@ -1,0 +1,68 @@
+[
+  {
+    "record_id": "a7083a5b-c11d-4899-8b60-aea421c55157",
+    "content": "科别：\n日期：2026-03-28\n姓名：\n性别：\n年龄：\n临床诊断：\nasdasdasdas\nasdasdasdasdaasdasdasd\n医师：\n审核：\n金额：\n调配：\n核对：\n发药：",
+    "time": "2026-03-28 17:05:44",
+    "id": "b4dbfd97-4476-4b60-8be7-a77604d8ee46"
+  },
+  {
+    "record_id": "d337effc-2b0c-40b9-8003-591155ad995a",
+    "content": "科别：\n日期：2026-03-28\n姓名：\n性别：\n年龄：\n临床诊断：\nasdasdasd\nasdasdasdasdasdasdasdasdasdasdasdasd\nsufg\n\n医师：\n审核：\n金额：\n调配：\n核对：\n发药：",
+    "time": "2026-03-28 17:43:02",
+    "id": "1a7a4140-84d2-4118-bf72-f321143c6f4e"
+  },
+  {
+    "record_id": "3b2c635f-e400-4f22-9ae4-6454fc1174ba",
+    "dept": "无",
+    "fee": "无",
+    "date": "2026-03-28",
+    "name": "sufg",
+    "gender": "男",
+    "age": "22",
+    "diagnosis": "开了几幅中药",
+    "doctor": "",
+    "audit": "",
+    "amount": "222",
+    "dispense": "",
+    "check": "",
+    "dispense_med": "",
+    "time": "2026-03-28 19:53:37",
+    "id": "e6fa4891-7534-4c43-aba7-3cd6a21564ca"
+  },
+  {
+    "id": "c382cd65-bdca-45e5-a6e3-5fb1e455a05e",
+    "record_id": "ffde3031-7488-4849-bca9-01257fed4792",
+    "dept": "",
+    "fee": "",
+    "date": "2026-03-28",
+    "name": "老爸",
+    "gender": "男",
+    "age": "55",
+    "diagnosis": "阿三大苏打阿松大assd\n阿三大苏打asd\n阿松大阿松大阿松大as\n\n阿松大阿松大阿松大asdasd asd asd asd asd asd",
+    "doctor": "",
+    "audit": "",
+    "amount": "",
+    "dispense": "",
+    "check": "",
+    "dispense_med": "",
+    "time": "2026-03-28 20:17:01"
+  },
+  {
+    "record_id": "26650a1e-e247-4e4b-9d88-0f7d39ce0ef4",
+    "dept": "",
+    "fee": "",
+    "date": "2026-03-28",
+    "name": "嗡嗡嗡",
+    "gender": "男",
+    "age": "22",
+    "diagnosis": "阿三大苏打是的阿松大阿松大阿松大",
+    "doctor": "",
+    "audit": "",
+    "amount": "",
+    "dispense": "",
+    "check": "",
+    "dispense_med": "",
+    "time": "2026-03-28 20:48:47",
+    "id": "13bebbcd-855d-46d1-aef2-76d80eda2ba6"
+  }
+]
